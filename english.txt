@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Version: 
-! Title: Crunchyroll Anti-Circumvention filters
+! Title: Crunchyroll Adblock
 ! Last modified: 22 Apr 2020 01:50 UTC
-! Homepage: https://github.com/TheCardinalSystem/Cruncyroll-Filter-List
+! Homepage: https://github.com/strideryuder/crunch2020/edit/master/english.txt
 !
 @@||vrv.co^$media,xmlhttprequest,domain=crunchyroll.com
 @@||innovid.com^$domain=crunchyroll.com
@@ -18,3 +18,4 @@
 @@||facebook.com/v1/instream^$domain=crunchyroll.com
 @@||fwmrm.net/ad/l/1?
 @@||5fd74.v.fwmrm.net
+&adid=
